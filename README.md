@@ -1,2 +1,2 @@
 # Relearning-101
-Relearning things to be a better dveeloper
+Relearning things to be a better developer
